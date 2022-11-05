@@ -8,6 +8,7 @@ edition = "2021"
 [dependencies]
 specs = "0.18.0"
 specs-derive = "0.4.1"
+vector2d = "2.2.0"
 
 [dependencies.sdl2]
 version = "0.35.2"
